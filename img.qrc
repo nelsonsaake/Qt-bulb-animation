@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wp.jpg</file>
+    </qresource>
+</RCC>
